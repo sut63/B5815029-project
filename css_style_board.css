@@ -1,0 +1,140 @@
+#Pboard{
+padding-bottom: 3px;
+font-weight: bold;
+color: red;
+}
+#Pboard a:link, #Pboard a:visited{
+padding-bottom: 3px;
+font-weight: bold;
+color: blue;
+text-decoration: none;
+}
+#Pboard a:hover{
+padding-bottom: 3px;
+font-weight: bold;
+color: red;
+}
+#ulBoard {
+list-style:none;
+}
+#ulBoard li{
+list-style:none;
+display: inline;
+}
+#boardd1 {
+float: left;
+text-align: center;
+padding: 5px;
+font-weight: bold;
+color: black;
+height: 20px;
+padding-top: 20px;
+}
+
+/* end board1 */
+
+#ulBoard2 {
+list-style:none;
+}
+#ulBoard2 li{
+list-style:none;
+display: inline;
+}
+#boardd11 {
+float: left;
+height: 20px;
+text-align: left;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 8px;
+padding-bottom: 2px;
+margin-top: -1px;
+color: blue;
+}
+#boardd11:hover{
+float: left;
+height: 20px;
+text-align: left;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 8px;
+padding-bottom: 2px;
+margin-top: -1px;
+color: red;
+}
+
+#TitleBD {
+padding: 10px;
+border: 1px dashed #fafafa;
+margin-right: 10px;
+margin-left: 10px;
+margin-top: 20px;
+background: #fafafa;
+}
+#TitleListBDTitle {
+padding:10px;
+margin-top: -20px;
+border: 1px dashed white;
+width: 500px;
+background: #FF9900;
+color: black;
+}
+#TitleBDTitle {
+padding:10px;
+margin-top: -20px;
+border: 1px solid #CCC;
+width: 500px;
+background: white;
+}
+#TitleListBDDetail {
+padding-left:50px;
+padding-top: 15px;
+}
+#TitleListBD {
+padding-top: 10px;
+padding-left:50px;
+}
+
+#TitleBD1 {
+padding-left: 10px;
+padding-bottom: 20px;
+border: 1px solid #666;
+background: #fafafa;
+margin-left: 10px;
+margin-bottom: 10px;
+margin-top: 40px;
+}
+#TitleListBDTitle1 {
+padding:10px;
+}
+#TitleListBDDetail1 {
+padding-left:50px;
+padding-top: 15px;
+}
+#TitleListBD1 {
+padding-top: 10px;
+padding-left:50px;
+}
+
+table td.sell {
+border-left: 1px dotted #666;
+border-top: 1px dotted #666;
+border-bottom: 1px dotted #666;
+}
+table td.sellright {
+border-left: 1px dotted #666;
+border-top: 1px dotted #666;
+border-bottom: 1px dotted #666;
+border-right: 1px dotted #666;
+}
+table td.sell1 {
+border-left: 1px dotted #666;
+border-bottom: 1px dotted #666;
+}
+table td.sellright1 {
+border-left: 1px dotted #666;
+border-bottom: 1px dotted #666;
+border-right: 1px dotted #666;
+}
+
+

@@ -1,0 +1,149 @@
+.browse_page{  
+    clear:both;  
+    height:35px;  
+    margin-top:5px;  
+    display:block;  
+}  
+.browse_page a,.browse_page a:hover{  
+    display:block;  
+    height:18px;  
+    width:18px;  
+    font-size:10px;  
+    float:left;  
+    margin-right:2px;  
+    border:1px solid #CCCCCC;  
+    background-color:#F4F4F4;  
+    color:#333;  
+    text-align:center;  
+    line-height:18px;  
+    font-weight:bold;  
+    text-decoration:none;  
+}  
+.browse_page a:hover{  
+    border:1px solid #0A85CB;  
+    background-color:#0A85CB;  
+    color:#FFFFFF;  
+}  
+.browse_page a.selectPage{  
+    display:block;  
+    height:18px;  
+    width:18px;  
+    font-size:10px;  
+    float:left;  
+    margin-right:2px;  
+    border:1px solid #0A85CB;  
+    background-color:#0A85CB;  
+    color:#FFFFFF;  
+    text-align:center;  
+    line-height:18px;  
+    font-weight:bold;  
+}  
+.browse_page a.SpaceC{  
+    display:block;  
+    height:18px;  
+    width:18px;  
+    font-size:10px;  
+    float:left;  
+    margin-right:2px;  
+    border:0px dotted #0A85CB;  
+    font-size:11px;  
+    background-color:#FFFFFF;  
+    color:#333333;  
+    text-align:center;  
+    line-height:18px;  
+    font-weight:bold;  
+}  
+.browse_page a.naviPN{  
+    width:50px;  
+    font-size:12px;  
+    display:block;  
+    height:18px;  
+    float:left;  
+    border:1px solid #0A85CB;  
+    background-color:#0A85CB;  
+    color:#FFFFFF;  
+    text-align:center;  
+    line-height:18px;  
+    font-weight:bold;     
+}  
+.browse_page a.naviPN:hover{  
+    width:50px;  
+    font-size:12px;  
+    display:block;  
+    height:18px;  
+    float:left;  
+    border:1px solid #0A85CB;  
+    background-color:#0A85CB;  
+    color:#FFFFFF;  
+    text-align:center;  
+    line-height:18px;  
+    font-weight:bold;     
+}  
+.none{
+	list-style: none;
+}
+.none li{
+	display: inline;
+}
+
+/* Page ใหม่ */
+#ulBangNa{
+display: block;
+list-style: none;
+display: inline;
+padding: 0px;
+}
+#ulBangNa li {
+height: 30px;
+display: block;
+display: inline;
+margin: -4px;
+padding: 5px;
+text-decoration: none;
+}
+#ulBangNa ,#liBangNa {
+display: block;
+padding: 5px;
+text-decoration: none;
+}
+#ulBangNa li a:link, #ulBangNa li a:visited{
+background: #0099CC;
+display: block;
+display: inline;
+margin: 1px;
+color: white;
+padding: 5px;
+text-decoration: none;
+}
+#ulBangNa li a:hover, #ulBangNa li a:active{
+background: #00CCFF;
+display: block;
+display: inline;
+color: white;
+padding: 5px;
+text-decoration: none;
+}
+#onHoverN {
+background: #00CC00;
+display: block;
+display: inline;
+color: white;
+padding: 5px;
+padding-left: 10px;
+padding-right: 10px;
+margin-left: -5px;
+margin-right: -5px;
+text-decoration: none;
+}
+#PhoEdit {
+list-style: none;
+padding: 3px;
+height: 100px;
+}
+#Etphoto{
+font-weight: bold;
+display: block;
+padding-left: 120px;
+color: red;
+}
+/* End */

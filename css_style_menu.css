@@ -1,0 +1,261 @@
+.tableindex{
+background: #FFF;
+-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.Login{
+background: #FFF;
+-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.Head-Menu {
+	list-style: none;
+	font-weight: none;
+	font-size: 15px;
+	margin-left: 50px;
+}
+.Head-Menu li {
+	display:inline;
+}
+.Head-Menu li {
+float: left;
+display: block;
+padding-top: 5px;
+padding-left: 10px;
+color: #333;
+}
+li.Page1 {
+float: left;
+display: block;
+padding-top: 5px;
+padding-left: 1px;
+color: #333;
+}
+#limenuHead a:link {
+	display: block;
+	margin-top: -5px;
+	padding-top: 5px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-decoration: none;
+	color: #333; /* สีตัวอักษร */
+	font-weight: bold;
+	background: none; /* สีพื้นหลัง */
+	border: 0px solid  #333;  /* สีกรอบเมนูด้านบน*/
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+#limenuHead a:visited {
+	display: block;
+	margin-top: -5px;
+	padding-top: 5px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-decoration: none;
+	color: #333;   /* สีตัวอักษร */
+	background: none; /* สีพื้นหลัง */
+	font-weight: bold;
+
+	border: 0px solid  #333;  /* สีกรอบเมนูด้านบน*/
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+#limenuHead a:hover {
+	display: block;
+	margin-top: -5px;
+	padding-top: 5px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+	padding-right: 5px; 
+	color: #000;  /* สีตัวอักษร */
+	background: none; /* สีพื้นหลัง */
+	font-weight: bold;
+
+	border: 0px solid  #333;  /* สีกรอบเมนูด้านบน*/
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+#limenuHead a:active {
+	display: block;
+	margin-top: -5px;
+	padding-top: 5px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #000;  /* สีตัวอักษร */
+	background: none; /* สีพื้นหลัง */
+	border: 0px solid  #333;  /* สีกรอบเมนูด้านบน*/
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+#limenuHead a:active {
+	color: #666;
+}
+
+/* เมนูส่วนที่ให้แสดงค้างไว้ เช่น หน้าแรก */
+#Page1 li.Page1 a,
+#Page2 li.Page2 a,
+#Page3 li.Page3 a,
+#Page4 li.Page4 a,
+#Page5 li.Page5 a,
+#Page6 li.Page6 a,
+#Page7 li.Page7 a,
+#Page8 li.Page8 a,
+#Page9 li.Page9 a,
+#Page10 li.Page10 a
+{
+	margin-top: -5px;
+	padding-top: 5px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+	padding-right: 5px;
+	display: block;
+	text-decoration:none;
+	color: #000;  /* สีตัวอักษร */
+	background: none; /* สีพื้นหลัง */
+	font-weight: bold;
+
+	border: 0px solid  #333;  /* สีกรอบเมนูด้านบน*/
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+/* ==== ส่วนของ From ==== */
+
+h1 {
+  font: 1.2em Arial, Helvetica, sans-serif;
+}
+input.txt {
+  color: #00008B;
+  background-color: #E3F2F7;
+  border: 1px inset #00008B;
+  width: 190px;
+  height: 15px;
+}
+input.btn {
+  color: #00008B;
+  background-color: #ADD8E6;
+  border: 1px outset #00008B;
+  font-size:11px;
+  height: 20px;
+}
+form div {
+  clear: left;
+  margin: 0;
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+form div label {
+  float: left;
+  width: 15%;
+  font: bold  Arial, Helvetica, sans-serif;
+  font-size:11px;
+  padding-left: 5px;
+}
+fieldset {
+  border: 1px dotted #61B5CF;
+  margin-top: 1.4em;
+}
+legend {
+  font: bold 0.8em Arial, Helvetica, sans-serif;
+  color: #00008B;
+  background-color: #FFFFFF;
+}
+.akey {
+  text-decoration: underline;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+/* End */
+
+/* สินค้าขายดี */
+ul#MenuPDD{
+list-style: none;
+padding-left: 40px;
+}
+ul#MenuPDD #ilMenu-PDD {
+display: block;
+font-weight: bold;
+padding: 2px;
+}
+ul#MenuPDD #ilMenu-PDD a:link{
+text-decoration: none;
+color: #6B060A;
+}
+ul#MenuPDD #ilMenu-PDD a:visited{
+text-decoration: none;
+color: #6B060A;
+}
+ul#MenuPDD #ilMenu-PDD a:hover{
+text-decoration: none;
+color: red;
+}
+ul#MenuPDD #ilMenu-PDD a:active{
+text-decoration: none;
+color: #6B060A;
+}
+
+
+/* menu Admin */
+ul#MenuAdmin{
+list-style: none;
+}
+ul#MenuAdmin #MA {
+display: inline;
+}
+ul#MenuAdmin #MA a:link{
+text-decoration: none;
+color: red;
+}
+ul#MenuAdmin #MA a:visited{
+text-decoration: none;
+color: red;
+}
+ul#MenuAdmin #MA a:hover{
+text-decoration: none;
+color: #FD8611;
+text-decoration: underline;
+}
+ul#MenuAdmin #MA a:active{
+text-decoration: none;
+color: #FD8633;
+}
+
+/* End menu Admin */
+
+/* Menu User */
+#MenuUser{
+list-style: none;
+}
+#MenuUser #liUser{
+display: inline;
+}
+#MenuUser #liUser a:link{
+text-decoration: none;
+color: #F65801;
+}
+#MenuUser #liUser a:visited{
+color: #F65801;
+}
+#MenuUser #liUser a:hover{
+color: red;
+}
+#MenuUser #liUser a:active{
+color: #F65801;
+}
+
+/* End User */
