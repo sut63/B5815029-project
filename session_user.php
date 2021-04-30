@@ -2,7 +2,7 @@
 <?php
 session_start();
 session_id();
-include "cke_date_func.php";
+
 if(!$_SESSION['sess_mb_userid'] == session_id()) { // if นี้ใช้ตรวจสอบถ้าไม่ได้ login ให้ไปหน้า login
 			echo "<script>alert('LogIn เข้าระบบก่อน')</script>";
 			echo "<meta http-equiv='refresh' content='0;url=index.php'>" ; 

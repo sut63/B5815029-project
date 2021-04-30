@@ -43,6 +43,20 @@ include "function.php";
         <tr>
           <td align="left" valign="top"><div class="title">
               <h2> การสั่งซื้อสินค้า</h2>
+              
+              <div style="padding: 10px; margin:5px; border-bottom: 1px solid #ddd; font-size: 15px;">
+			<ul class="list_data" style="list-style:none;">
+			<li class="title_detail" id="brt" style="font-size:16px; padding-bottom: 5px;">
+			<b>วิธีการสั่งซื้อสินค้า</b>			</li>
+			<li class="data_detail" id="brt">1. สมัครสมาชิก Username และ Password </li>
+      <li class="data_detail" id="brt">2. จากนั้นลงชื่อเข้าใช้ระบบเพื่อสั่งซื้อสินค้าตามที่ต้องการ </li>
+      <li class="data_detail" id="brt">3. เลือกสินค้าตามความต้องการ </li>
+			<li class="data_detail" id="brt">4. เมื่อพอใจในสินค้าที่เลือก คำนวณราคาสินค้าในตะกร้า เลือกวิธีการจัดส่ง จากนั้นยืนยันการสั่งซื้อสินค้าที่ได้เลือกไว้ </li>		
+			<li class="data_detail" id="brt">5. ชำระเงินสินค้าตามรายการที่สั่งซื้อ โดยโอนเงินผ่านธนาคารที่ทางร้านแจ้งไว้ที่หน้าเว็บไซต์</li>		
+			<li class="data_detail" id="brt">6. รอบรับสินค้าเมื่อทางร้านจะจัดส่งให้โดยเร็ว ขอบคุณที่ใช้บริการครับ</li>		
+				
+	    </ul>
+			</div>
           
 		  
 		  
