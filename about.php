@@ -43,10 +43,20 @@ include "function.php";
 	  <table width="100%" height="500" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td align="left" valign="top"><div class="title">
-              <h2> ลูกค้าของเรา </h2>
+              <h2> รีวิวสินค้า </h2>
           </div>
 		  <div style="padding:10px; margin:5px;">
-          
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5JXUTNfmgoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pAJyyZDUvW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+          <br>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/q2aYOtl4Z9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <br>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/ZgyS9CrSDIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4OTvxVLJM1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/4u713ywPIAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
 			</div>
