@@ -45,6 +45,7 @@ include "function.php";
               <h2> ติดต่อเรา</h2>
           </div>
 		  <div style="padding: 10px; margin:5px; border-bottom: 1px solid #ddd; font-size: 15px;">
+      <strong>*******มีปัญหาเกี่ยวกับการสั่งซื้อสินค้าโปรดเเจ้ง*******</strong>  <br />
  		<strong>ที่อยู่ร้าน</strong> 165 /10 ต.นาเเต้ อ.คำตากล้า จ.สกลนคร 47250 <br />
 		<strong>ติดต่อผู้ขาย</strong> : E-mail joza.joe@gmail.com<br />
 	      <strong>Tel</strong>: 0909500661<br />
