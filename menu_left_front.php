@@ -171,20 +171,19 @@ function filterFunction() {
 <br>
 <br>
 
-<!--<b></b><?php echo $_SESSION['sess_mb_name']; ?></div> -->
-<a href="logout.php"> ออกจากระบบ </>
-<br />
-
-		
+</div> 
+<a href="logout.php"> ออกจากระบบ </a>
 <br />
 
 		
 		  </ul>
 		<?php  } ?>
 </p> </td>
-                 </tr>
+		
+
      
 
-</div>
 
+<p>&nbsp;</p>
+		<p>&nbsp;</p>
 		
