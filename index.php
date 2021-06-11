@@ -141,20 +141,7 @@ if(!empty($result['prd_photo'])){
   <p style="clear:both;"></p>
 <!-- ปิด เมนูด้านซ้าย -->
 	  
-</div>
-<div id="footer_front">
-	<div class="data_footer">
-      <p>
-        <?php include "footer.php"; ?>
-        <?PHP
-			if($_POST['add_basket']){
-				echo "<meta http-equiv='refresh' content='0; url=add_basket_product.php?ID=".$_POST['ID']."&txt_num=1'>";
-			}else if($_POST['btn_detail']){
-				echo "<meta http-equiv='refresh' content='0; url=detail_product.php?ID=".$_POST['ID']."'>";
-			}
-		?>
-      </p>
-      
+
 	</div>
 	
 </div>
